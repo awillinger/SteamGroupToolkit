@@ -14,6 +14,10 @@ Requirements
 How to use
 -----
 
+#. Clone this repository:
+  git clone git
+#. Do something else
+
 License
 -----
 This Program is licensed under the GPLv3. You may redistribute this as long as you license it again with the GPLv3.

@@ -1,0 +1,4 @@
+{
+	"file_prefix":"prefix which the file should have, e.g. harvested => harvested_groupid.txt",
+	"group_id":"64-bit groupid"
+}
